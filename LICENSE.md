@@ -1,4 +1,4 @@
-
+Enhance MindManager for Windows with MindManager for Windows new Addon: real-time-sync & offline-access, the #1 addon. Includes real-time-sync and offline-access for a smoother
 
 
 
